@@ -51,7 +51,7 @@ server.delete("/livros/:index", (req, res) => {
 
     return res.json({
         message: "O Livro foi deletado da lista com sucesso!"
-    })
+    });
 });
 
 server.listen(3000);
