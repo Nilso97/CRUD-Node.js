@@ -1,5 +1,5 @@
-### Livros de Ficção Científica
-CRUD criado em  Node.js para fazer a listagem, a atualização ou deletar os livros da lista... 
+### Filmes Clássicos de Terror
+CRUD criado em  Node.js para fazer a listagem, a atualização ou deletar filmes de terror da lista...
 
 CRUD (Create, Read, Update, Delete) é um acrônimo para as maneiras de se operar em informação armazenada.
 
@@ -15,4 +15,5 @@ O método PUT substitui todas as atuais representações do recurso de destino p
 ### DELETE
 O método DELETE remove um recurso específico.
 
-![Insominia Print](https://user-images.githubusercontent.com/96146165/158486769-56b53ca3-2941-4aaf-924e-07a1849f384e.png)
+### Utilizei o INSOMNIA para fazer o teste e utilização do CRUD
+![CRUD - Print](https://user-images.githubusercontent.com/96146165/158568517-66504035-9ed2-41f5-96c8-a484a7567df1.png)
