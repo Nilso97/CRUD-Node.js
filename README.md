@@ -16,5 +16,5 @@ O método PUT substitui todas as atuais representações do recurso de destino p
 ### DELETE ![606427](https://user-images.githubusercontent.com/96146165/158583751-a3b56a86-a2a8-4627-8fb1-573b167a3d67.png)
 O método DELETE remove um recurso específico.
 
-### Utilizei o INSOMNIA para fazer o teste e utilização do CRUD
+Utilizei o <strong>INSOMNIA</strong> para fazer o teste e utilização do CRUD
 ![CRUD - Print](https://user-images.githubusercontent.com/96146165/158568517-66504035-9ed2-41f5-96c8-a484a7567df1.png)
