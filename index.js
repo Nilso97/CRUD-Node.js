@@ -12,6 +12,11 @@ const movies = [
     "O Exorcista (1973)",
 ];
 
+const myServer = server.listen(8080, () => {
+    const serverPort = myServer.address().port;
+    console.log("Servidor em execução na porta %s", serverPort);
+});
+
 // CRUD ---> CREATE, READ, UPDATE, DELETE
 
 server.get("/filmes/:index", (req, res) => {
@@ -50,5 +55,3 @@ server.delete("/filmes/:index", (req, res) => {
         message: "O filme foi deletado da lista com sucesso!"
     });
 });
-
-server.listen(8080);
